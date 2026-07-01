@@ -62,29 +62,34 @@
 - Linux User
 
 
----
-
 # 📫 Connect With Me
-<p align="center">
 
+<table align="center">
+<tr>
+
+<td align="center">
 <a href="mailto:kamandnajari@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://instagram.com/lkmnd__">
 <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://x.com/kamandnajari">
 <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
 </a>
+</td>
 
-</p>
----
+</tr>
+</table>
+
+
+
 
 <div align="center">
 
