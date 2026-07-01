@@ -34,23 +34,24 @@
 ## Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
 </p>
-
-- 📊 Matplotlib
-- 🌊 Seaborn
-
----
 
 ## Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
-
-- 🧠 Scikit-learn
-
----
 
 # 🐧 Work Environment
 
@@ -64,27 +65,25 @@
 ---
 
 # 📫 Connect With Me
-
 <p align="center">
 
 <a href="mailto:kamandnajari@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/lkmnd__">
-<img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+<img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/kamandnajari">
-<img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48"/>
 </a>
 
 </p>
-
 ---
 
 <div align="center">
