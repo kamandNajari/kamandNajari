@@ -2,9 +2,9 @@
 
 # 🌌 $WHOAMI 👾
 
-### _"I wanna be a gangster in computer vision"_ 🤖
+### _"I wanna be a gangster in my works "_ 🤖
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Computer+Vision+Explorer+👁️;Python+Developer+🐍;AI+Enthusiast+🤖;Never+Stop+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Python+Developer+🐍;Prompt+Engineering+🧠;AI+Enthusiast+🤖;Never+Stop+Learning+🚀" />
 
 
 </div>
@@ -13,10 +13,9 @@
 
 # 🎯 Goal
 
-- 🌌 Become a Computer Vision Engineer
 - 🤖 Explore Artificial Intelligence
 - 🧠 Learn Machine Learning & Deep Learning
-- 🚀 Build real-world AI & Computer Vision projects
+- 🌌 Become a Computer Vision Engineer
 - ✨ Never Stop Learning
 
 ---
@@ -42,12 +41,13 @@
 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ## Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
@@ -93,6 +93,6 @@
 
 <div align="center">
 
-## 💜 Keep Learning • Keep Building • Keep Exploring 🌌
+## 💜💙 Keep Learning • Keep Building • Keep Exploring 🌌
 
 </div>
