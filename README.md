@@ -20,7 +20,7 @@
 
 ---
 
-## 💜 Libraries & Frameworks
+## 👾 Libraries & Frameworks
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=4B0082"/>
@@ -73,6 +73,6 @@
 
 <div align="center">
 
-## 💜💙 Keep Learning • Keep Building • Keep Exploring 🌌
+## 💙 Keep Learning • Keep Building • Keep Exploring💙 🌌
 
 </div>
