@@ -44,8 +44,6 @@
 - 🟣 Linux User
 
 
-## 📫 Connect With Me
-
 ## 🌐 Connect With Me
 
 <p align="center">
