@@ -46,29 +46,15 @@
 
 ## 📫 Connect With Me
 
-<table align="center">
-<tr>
+## 🌐 Connect With Me
 
-<td align="center">
-<a href="mailto:kamandnajari@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://instagram.com/lkmnd__">
-<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://x.com/kamandnajari">
-<img src="https://img.shields.io/badge/Twitter-8A2BE2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</td>
-
-</tr>
-</table>
+<p align="center">
+<a href="https://t.me/kamandnajari"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=2E4A7E&labelColor=1a1a2e"/></a>
+<a href="https://youtube.com/@kamand_najari?si=RIgL6AIkJC2iaAKH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=6A0DAD&labelColor=1a1a2e"/></a>
+<a href="https://instagram.com/lkmnd__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8A2BE2&labelColor=1a1a2e"/></a>
+<a href="mailto:kamandnajari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=5B2C8E&labelColor=1a1a2e"/></a>
+<a href="https://x.com/kamandnajari"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=3D5A80&labelColor=1a1a2e"/></a>
+</p>
 
 
 <div align="center">
